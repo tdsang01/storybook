@@ -12,8 +12,6 @@
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11",
     "@storybook/react": "^5.0.11",
-    "i": "^0.3.6",
-    "npm": "^6.9.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -25,6 +23,7 @@
     "redux-devtools-extension": "^2.13.8",
     "require-context.macro": "^1.0.4",
     "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.1",
     "styled-components": "^4.2.0"
   },
   "scripts": {

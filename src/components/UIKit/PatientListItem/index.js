@@ -1,9 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import PatientItem from '../PatientItem';
-import { Col, Row } from '../FlexLayout';
+import { Col } from '../FlexLayout';
 import Pagination from '../Pagination';
-import { Text } from '../Typography'
 
 const PatientListItemWrapper = styled.div`
   max-width: 480px;

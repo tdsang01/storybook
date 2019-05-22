@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { Header, Button, Popup, Grid } from 'semantic-ui-react';
+import { Popup } from 'semantic-ui-react';
 import { UI_PRIMARY_COLOR } from '../Variables';
 
 const Base= styled.button`
@@ -84,10 +84,10 @@ function ChipButton(props) {
       trigger=
         {
           <Chip
-          onClick={() => changeState()}
-          className={[selected ? 'selected' : '']}
-        >{date}</Chip>
-          }
+            onClick={() => changeState()}
+            className={[selected ? 'selected' : '']}
+          >{date}</Chip>
+        }
       content={selected ? 'Click to unselect' : 'Click to select'}
       style={stylePopup}
       inverted
