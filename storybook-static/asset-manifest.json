@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.9a340de1d3c9e6371073.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.9a340de1d3c9e6371073.bundle.js.map",
+    "runtime~main.js": "/runtime~main.9a340de1d3c9e6371073.bundle.js",
+    "runtime~main.js.map": "/runtime~main.9a340de1d3c9e6371073.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.9a340de1d3c9e6371073.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.9a340de1d3c9e6371073.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.430226a31f39faf9ff2e15eaee27f183.js": "/precache-manifest.430226a31f39faf9ff2e15eaee27f183.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
